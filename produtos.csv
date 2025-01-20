@@ -1,0 +1,16 @@
+nome,categoria,preco,video,tipo,caracteristica,tamanho,localizacao,forma_pagamento,status,imagem_fundo
+Adriano 1rap,musica,60,imagens/musica - Copia.ogg,rap,,,,,true,imagens/fundo_disco.webp
+Adriano 2classica,musica,120,imagens/musica2.ogg,classica,,,,,true,imagens/caveira_barco.webp
+Adriano 3classica,musica,120,imagens/musica2.ogg,classica,,,,,true,imagens/fundo_disco.webp
+Adriano 4rap,musica,60,imagens/musica - Copia.ogg,rap,,,,,true,imagens/caveira_barco.webp
+Adriano 5rock,musica,120,imagens/musica2.ogg,rock,,,,,true,imagens/caveira_barco.webp
+Adriano 6rock,musica,120,imagens/musica2.ogg,rock,,,,,true,imagens/fundo_disco.webp
+comida_1,loja,20,,doce,,,,,true,imagens/comida.avif
+comida_2,loja,20,,doce,,,,,true,imagens/comida.avif
+urso1,loja,20,,doce,,,,,true,imagens/teddy-bear.png
+comida_3,loja,20,,doce,,,,,true,imagens/comida.avif
+urso21,loja,20,,salgado,,,,,true,imagens/teddy-bear.png
+comida_12,loja,20,,doce,,,,,true,imagens/comida.avif
+comida_23,loja,20,,doce,,,,,true,imagens/comida.avif
+comida_33,loja,20,,doce,,,,,true,imagens/comida.avif
+urso212,loja,20,,doce,,,,,true,imagens/teddy-bear.png
