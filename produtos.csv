@@ -13,15 +13,15 @@ urso21,loja,20,,salgado,,,,,true,imagens/teddy-bear.png,false,
 comida_12,loja,20,,doce,,,,,true,imagens/comida.avif,false,
 comida_23,loja,20,,doce,,,,,true,imagens/comida.avif,false,
 comida_33,loja,20,,doce,,,,,true,imagens/comida.avif,false,
-urso212,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[l(2)arroz.feijao. polenta].[i().lagosta.carne.peixe].[c().açai/"12.2".gelo/"12.23"]
-urso22,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[c().açai/"12.2".gelo/"12.23"]
-urso312,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[c().açai/"12.2".gelo/"12.23"]
-urso5,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[c().açai/"12.2".gelo/"12.23"]
-urso212,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[i().lagosta.carne.peixe]
-urso22,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[i().lagosta.carne.peixe]
-urso312,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[i().lagosta.carne.peixe]
-urso5,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[i().lagosta.carne.peixe]
-urso212,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[l(2)arroz.feijao. polenta]
-urso22,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[l(2)arroz.feijao. polenta]
-urso312,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[l(2)arroz.feijao. polenta]
-urso5,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,[l(2)arroz.feijao. polenta]
+urso212,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso22,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso312,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso5,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso212,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso22,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso312,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso5,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso212,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso22,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso312,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
+urso5,anotai,20,,doce,,,,,true,https://client-assets.anota.ai/produtos/1717273964849blob.webp,true,{c/2/[arroz/feijao/pedra]}{s//[paulo/joao/fernanda]}{v[caipirinha(2/30)/arroz doce(2)]}
