@@ -14,9 +14,9 @@ serviço:
 vendas de gelados, quentes e sobremesas.
 <br>
 FORMAS DE PAGAMENTO:
-Cartões:Alelo Alimentação, Alelo Refeição, Elo, Visa, Mastercard, Hipercard, American Express, VR Refeição, VR Alimentação, Ticket Alimentação, Ticket Flex, Sodexo Alimentação
-Dinheiro
-Pix
+<imagem:https://pedido.anota.ai/assets/card-f2bc1bea.svg> Cartões:Alelo Alimentação, Alelo Refeição, Elo, Visa, Mastercard, Hipercard, American Express, VR Refeição, VR Alimentação, Ticket Alimentação, Ticket Flex, Sodexo Alimentação
+<imagem:https://pedido.anota.ai/assets/money-ba8a12b2.svg> Dinheiro
+<imagem:https://pedido.anota.ai/assets/pix-55137baa.svg> Pix
 <br>
 endereço:
 porto alegre, lomba do pinheiro, rua b acesso 4 numero 55
