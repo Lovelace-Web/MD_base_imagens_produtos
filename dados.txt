@@ -1,0 +1,22 @@
+nome:
+cantinho do macaco
+<br>
+horario_atendimento:
+Domingo: 12h às 20h,
+Segunda-feira: 12h às 20h,
+Terça-feira: 12h às 20h - 12h às 18h,
+Quarta-feira: 12h às 20h,
+Quinta-feira: 12h às 20h,
+Sexta-feira: 12h às 20h,
+Sábado: 12h às 20h,
+<br>
+serviço:
+vendas de gelados, quentes e sobremesas.
+<br>
+FORMAS DE PAGAMENTO:
+Cartões:Alelo Alimentação, Alelo Refeição, Elo, Visa, Mastercard, Hipercard, American Express, VR Refeição, VR Alimentação, Ticket Alimentação, Ticket Flex, Sodexo Alimentação
+Dinheiro
+Pix
+<br>
+endereço:
+porto alegre, lomba do pinheiro, rua b acesso 4 numero 55
